@@ -1,3 +1,3 @@
-This is the first file that i have created on Git and now on the first branch
+This is the first file that i have created on Git and now on the first branch - Main branch change
 Making the first change to the file - 2nd line in the file
 Making the 2nd change - 3rd line
