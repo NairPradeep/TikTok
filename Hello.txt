@@ -3,3 +3,4 @@ Making the first change to the file - 2nd line in the file
 Making the 2nd change - 3rd line
 Making the 1st change after  pullign and merging with main branch
 To fix an issue 
+Trying to see how the issues are closed automatically
